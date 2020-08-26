@@ -1,0 +1,5 @@
+seeder:
+  file: seeder/seeder.rb
+parsers:
+  - file: parsers/product_list.rb
+    page_type: product_list
